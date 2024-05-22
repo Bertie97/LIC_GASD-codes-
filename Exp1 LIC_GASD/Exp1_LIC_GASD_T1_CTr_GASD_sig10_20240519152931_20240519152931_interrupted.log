@@ -1,0 +1,93 @@
+====================================================================================================
+Logging file for python script in Intensity Distribution.Experiment 1 (Anonymous): Exp1_LIC_GASD
+.py
+| The recreation of Experiment 1: comparison between LIC and GASD. 
+Started at 2024-05-19 15:29:31.527145 with command:
+> python Exp1_LIC_GASD.py --exp T1_CTr_GASD_sig10
+====================================================================================================
+
+2024-05-19 15:29:33.443575 | Iteration 1: similarity = -2.00e+00, loss = 2.06e+00, dice = 5.93e-01
+2024-05-19 15:29:35.248727 | Iteration 2: similarity = nan, loss = nan, dice = 5.57e-01
+2024-05-19 15:29:37.033807 | Iteration 3: similarity = nan, loss = nan, dice = 5.25e-01
+2024-05-19 15:29:38.812717 | Iteration 4: similarity = nan, loss = nan, dice = 5.02e-01
+2024-05-19 15:29:40.575956 | Iteration 5: similarity = nan, loss = nan, dice = 4.80e-01
+2024-05-19 15:29:42.355006 | Iteration 6: similarity = nan, loss = nan, dice = 4.60e-01
+2024-05-19 15:29:44.171648 | Iteration 7: similarity = nan, loss = nan, dice = 4.40e-01
+2024-05-19 15:29:45.970421 | Iteration 8: similarity = nan, loss = nan, dice = 4.17e-01
+2024-05-19 15:29:47.763684 | Iteration 9: similarity = nan, loss = nan, dice = 3.90e-01
+2024-05-19 15:29:49.584403 | Iteration 10: similarity = nan, loss = nan, dice = 3.56e-01
+2024-05-19 15:29:51.405296 | Iteration 11: similarity = nan, loss = nan, dice = 3.16e-01
+2024-05-19 15:29:53.266055 | Iteration 12: similarity = nan, loss = nan, dice = 2.65e-01
+2024-05-19 15:29:55.083728 | Iteration 13: similarity = nan, loss = nan, dice = 2.05e-01
+2024-05-19 15:29:56.883198 | Iteration 14: similarity = nan, loss = nan, dice = 1.38e-01
+2024-05-19 15:29:58.700928 | Iteration 15: similarity = nan, loss = nan, dice = 6.94e-02
+2024-05-19 15:30:00.496140 | Iteration 16: similarity = nan, loss = nan, dice = 2.68e-02
+2024-05-19 15:30:02.280863 | Iteration 17: similarity = nan, loss = nan, dice = 6.90e-03
+2024-05-19 15:30:04.083706 | Iteration 18: similarity = nan, loss = nan, dice = 5.92e-04
+2024-05-19 15:30:05.870948 | Iteration 19: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:07.581338 | Iteration 20: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:09.307138 | Iteration 21: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:11.031664 | Iteration 22: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:12.735083 | Iteration 23: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:14.462263 | Iteration 24: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:16.167840 | Iteration 25: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:17.885390 | Iteration 26: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:19.609053 | Iteration 27: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:21.345192 | Iteration 28: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:23.043265 | Iteration 29: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:24.745579 | Iteration 30: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:26.410038 | Iteration 31: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:28.125873 | Iteration 32: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:29.833296 | Iteration 33: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:31.516706 | Iteration 34: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:33.187110 | Iteration 35: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:34.885056 | Iteration 36: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:36.606855 | Iteration 37: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:38.307417 | Iteration 38: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:40.009971 | Iteration 39: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:41.724615 | Iteration 40: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:43.451855 | Iteration 41: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:45.154921 | Iteration 42: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:46.858615 | Iteration 43: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:48.556214 | Iteration 44: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:50.263361 | Iteration 45: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:51.982368 | Iteration 46: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:53.672365 | Iteration 47: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:55.381082 | Iteration 48: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:57.083468 | Iteration 49: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:30:58.795627 | Iteration 50: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:31:00.514071 | Iteration 51: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:31:02.214275 | Iteration 52: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:31:03.931034 | Iteration 53: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:31:05.628317 | Iteration 54: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:31:07.337754 | Iteration 55: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:31:09.049182 | Iteration 56: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:31:10.742018 | Iteration 57: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:31:12.440585 | Iteration 58: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:31:14.127794 | Iteration 59: similarity = nan, loss = nan, dice = 0.00e+00
+2024-05-19 15:31:15.800243 | Traceback (most recent call last): 
+                           |   File "/Users/admin/Documents/Home/Study_Work/Research/Projects/IntensityDistribution_2024-01_/NIPS
+                           | 2024/NewExperiments/Exp1 LIC_GASD/Exp1_LIC_GASD.py", line 197, in <module>
+                           |     loss.backward()
+                           |   File "/opt/homebrew/lib/python3.11/site-packages/torch/_tensor.py", line 478, in backward
+                           |     return handle_torch_function(
+                           |            ^^^^^^^^^^^^^^^^^^^^^^
+                           |   File "/opt/homebrew/lib/python3.11/site-packages/torch/overrides.py", line 1551, in handle_torch_f
+                           | unction
+                           |     result = torch_func_method(public_api, types, args, kwargs)
+                           |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                           |   File "/Users/admin/Documents/Home/Study_Work/Research/Libraries/PyCAMIA/batorch/tensor.py", line 3
+                           | 623, in __torch_function__
+                           |     ret = super().__torch_function__(func, types, args, kwargs)
+                           |           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                           |   File "/opt/homebrew/lib/python3.11/site-packages/torch/_tensor.py", line 1295, in __torch_function
+                           | __
+                           |     ret = func(*args, **kwargs)
+                           |           ^^^^^^^^^^^^^^^^^^^^^
+                           |   File "/opt/homebrew/lib/python3.11/site-packages/torch/_tensor.py", line 487, in backward
+                           |     torch.autograd.backward(
+                           |   File "/opt/homebrew/lib/python3.11/site-packages/torch/autograd/__init__.py", line 200, in backwar
+                           | d
+                           |     Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+                           | KeyboardInterrupt: 
+                           | 
